@@ -1,0 +1,21 @@
+{
+  "name": "my-project",
+  "version": "1.0.1",
+  "description": "This is my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "jarvis",
+    "stark"
+  ],
+  "author": "suraj",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "react-script": "^2.0.5"
+  }
+}
